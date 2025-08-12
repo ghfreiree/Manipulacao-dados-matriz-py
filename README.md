@@ -2,7 +2,7 @@
 
 ## 🎯 Sobre Este Repositório
 
-Bem-vindo, este repositório funciona como um diário público do meu desenvolvimento em Python, iniciado em **2025**. O objetivo é servir como um portfólio dinâmico, demonstrando minhas habilidades em lógica de programação e minha capacidade de aprender e aplicar novas técnicas de forma autônoma.
+Este repositório funciona como um diário público do meu desenvolvimento em Python, iniciado em **2025**. O objetivo é servir como um portfólio dinâmico, demonstrando minhas habilidades em lógica de programação e minha capacidade de aprender e aplicar novas técnicas de forma autônoma.
 
 ---
 
@@ -35,4 +35,4 @@ Cada arquivo `.py` foi projetado para ser compreendido de forma independente. A 
 
 ## 📫 Contato e Feedback
 
-Agradeço a visita! Se você tiver alguma sugestão, dúvida ou oportunidade, sinta-se à vontade para abrir uma **Issue** neste repositório ou me contatar através do meu [LinkedIn](https://www.linkedin.com/in/gustavo-ganaha-freire-0815bb353/).
+Agradeço a visita, se você tiver alguma sugestão, dúvida ou oportunidade, sinta-se à vontade para abrir uma **Issue** neste repositório ou me contatar através do meu [LinkedIn](https://www.linkedin.com/in/gustavo-ganaha-freire-0815bb353/).
